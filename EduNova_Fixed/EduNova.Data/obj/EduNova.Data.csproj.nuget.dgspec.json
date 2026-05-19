@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/oop/EduNova_Fixed/EduNova.Data/EduNova.Data.csproj": {}
+  },
+  "projects": {
+    "/workspaces/oop/EduNova_Fixed/EduNova.Data/EduNova.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/oop/EduNova_Fixed/EduNova.Data/EduNova.Data.csproj",
+        "projectName": "EduNova.Data",
+        "projectPath": "/workspaces/oop/EduNova_Fixed/EduNova.Data/EduNova.Data.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "/workspaces/oop/EduNova_Fixed/EduNova.Domain/EduNova.Domain.csproj": {
+                "projectPath": "/workspaces/oop/EduNova_Fixed/EduNova.Domain/EduNova.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/oop/EduNova_Fixed/EduNova.Domain/EduNova.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/oop/EduNova_Fixed/EduNova.Domain/EduNova.Domain.csproj",
+        "projectName": "EduNova.Domain",
+        "projectPath": "/workspaces/oop/EduNova_Fixed/EduNova.Domain/EduNova.Domain.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2wPXPMrgrg=",
+  "success": true,
+  "projectFilePath": "/workspaces/oop/EduNova_Fixed/EduNova.WinForms/EduNova.WinForms.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.configuration.configurationmanager/8.0.0/system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.data.sqlclient/4.9.1/system.data.sqlclient.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

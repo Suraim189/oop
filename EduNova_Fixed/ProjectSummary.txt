@@ -1,0 +1,73 @@
+EduNova Project Summary (May 19, 2026)
+
+Overview
+EduNova is a multi-layer school management system with a WinForms UI. The flow is:
+UI (EduNova.WinForms) -> Services (EduNova.Services) -> Data (EduNova.Data) -> SQL stored procedures (EduNovaDB_CompleteScript.sql).
+Configuration is provided by App.config (connection string: EduNovaDB).
+
+Project 1: EduNova.Domain
+Purpose
+- Defines the core business models, DTOs, enums, and validation interfaces used across the solution.
+
+Key Components
+- Entities: Student, Teacher, ClassSection, Subject, TimetableEntry, Exam, FeeStructure, AttendanceRecord, Notification, etc.
+- DTOs: LoginResultDTO, DashboardCountsDTO, ExamResultDTO, FeeDueDTO, SubstitutionResult, etc.
+- Interfaces: IAuditable, ISoftDeletable, IValidatable
+- Enums: Gender, AttendanceStatus, PaymentMethod, NotificationType, SubstitutionStatus, etc.
+
+How It Works
+- Entities are simple data holders with optional validation (for example, Student.Validate()).
+- DTOs provide read-only shapes for views and reports.
+
+Project 2: EduNova.Data
+Purpose
+- Centralized data access that calls SQL stored procedures and returns DataTable/DataRow results.
+
+Key Components
+- Db: reads the EduNovaDB connection string and creates SqlConnection objects.
+- SqlHelper: executes stored procedures (ExecuteDataTable, ExecuteNonQuery, ExecuteScalar).
+- Repositories: AdminRepository, StudentRepository, TeacherRepository, TimetableRepository, FeeRepository, LibraryRepository, AttendanceRepository, ExamRepository, ReportRepository, NotificationRepository, etc.
+- Mappers: StudentMapper converts DataRow objects into Student entities.
+
+How It Works
+- Repositories call stored procedures defined in EduNovaDB_CompleteScript.sql.
+- Results are returned as DataTable/DataRow for the Services layer to consume.
+
+Project 3: EduNova.Services
+Purpose
+- Business logic layer that wraps repository calls and provides higher-level operations.
+
+Key Components
+- AuthService: login + password hashing.
+- AdminService: user/role management, dashboard counts, audit logging, permissions.
+- AttendanceService, FeeService, LibraryService, TimetableService, NotificationService, ExamService, ReportService, etc.
+
+How It Works
+- Services are thin wrappers around repositories.
+- TimetableService also orchestrates leave/substitution operations.
+
+Project 4: EduNova.WinForms
+Purpose
+- Windows Forms UI for day-to-day school management.
+
+Key Components
+- Program.cs: entry point -> frmSplash -> frmLogin -> frmMain.
+- frmMain: loads modules (Dashboard, Students, Teachers, Classes, Subjects, Timetable, Attendance, Exams, Fees, Library, Reports, Admin).
+- Helpers: AppState (session user + permissions), Theme (shared colors/fonts), UiEffects (animations and UI helpers).
+- Forms: modules under Forms/* for each feature area.
+
+How It Works
+- User logs in via AuthService; AppState stores session user and permissions.
+- frmMain loads the selected module form into the content panel.
+- Each module uses services to interact with data.
+
+Notes
+- Database logic is defined in EduNovaDB_CompleteScript.sql and EduNovaDB_MissingSPs.sql.
+- Ensure the SQL scripts are executed before running the application.
+
+Recent Fixes (Code)
+- Added permission loading and checks in AppState using sp_GetUserPermissions.
+- Added AdminService/AdminRepository support for permissions.
+- Aligned StudentRepository with stored procedure names and parameters in the SQL script.
+- Added basic age calculation and safer mapping in StudentMapper.
+- Added guard for missing connection string in Db.

@@ -1,0 +1,228 @@
+'AdminService' does not contain a definition for 'GetAll' and no accessible extension method 'GetAll' accepting a first argument of type 'AdminService' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'AdminService' does not contain a definition for 'GetAll' and no accessible extension method 'GetAll' accepting a first argument of type 'AdminService' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+'frmAttendanceSummary' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmAttendanceSummary' could be found (are you missing a using directive or an assembly reference?)
+The type or namespace name 'Interaction' does not exist in the namespace 'Microsoft.VisualBasic' (are you missing an assembly reference?)
+The type or namespace name 'Interaction' does not exist in the namespace 'Microsoft.VisualBasic' (are you missing an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+'frmExams' does not contain a definition for 'btnExportCSV' and no accessible extension method 'btnExportCSV' accepting a first argument of type 'frmExams' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+'frmFeeStructure' does not contain a definition for 'btnSave' and no accessible extension method 'btnSave' accepting a first argument of type 'frmFeeStructure' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+'LibraryService' does not contain a definition for 'GetAll' and no accessible extension method 'GetAll' accepting a first argument of type 'LibraryService' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+The name 'DateTime' does not exist in the current context
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.FixedDialog' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.FixedDialog' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.FixedDialog' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+'frmReplaceTeacherWizard' does not contain a definition for 'lblTitle2' and no accessible extension method 'lblTitle2' accepting a first argument of type 'frmReplaceTeacherWizard' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+Argument 1: cannot convert from 'string' to 'System.Drawing.FontFamily'
+'FontStyle' does not contain a definition for 'FontStyle'
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'lblTitle' and no accessible extension method 'lblTitle' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+'frmTeacherLeaveRequest' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTeacherLeaveRequest' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableClassView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableClassView' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+'frmTimetableTeacherView' does not contain a definition for 'pnlTop' and no accessible extension method 'pnlTop' accepting a first argument of type 'frmTimetableTeacherView' could be found (are you missing a using directive or an assembly reference?)
+Member 'FormBorderStyle.Sizable' cannot be accessed with an instance reference; qualify it with a type name instead
+Only assignment, call, increment, decrement, await, and new object expressions can be used as a statement
+The field 'frmVoucherGenerate.lblResult' is never used
+The field 'frmReports.cmbRptClass' is never used
+The field 'frmReports.btnLoadRpt' is never used

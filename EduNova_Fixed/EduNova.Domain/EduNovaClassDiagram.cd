@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EduNova.Domain.Entities.BaseEntity">
+    <Position X="8.5" Y="0.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Person">
+    <Position X="8.5" Y="2.2" Width="2.0" />
+    <InheritanceLine Type="EduNova.Domain.Interfaces.IAuditable" ManuallyRouted="true" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAACQAgAAAAEAAAAAAAAAAAAAIAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="2.2" />
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Student">
+    <Position X="4.0" Y="5.5" Width="2.0" />
+    <InheritanceLine Type="EduNova.Domain.Entities.Person" FixedToPoint="true">
+      <Point X="9.167" Y="4.902" />
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Teacher">
+    <Position X="12.5" Y="5.5" Width="2.0" />
+    <InheritanceLine Type="EduNova.Domain.Entities.Person" FixedToPoint="true">
+      <Point X="10.5" Y="4.902" />
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Entities\Teacher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EduNova.Domain.Entities.StudentProfile">
+    <Position X="1.0" Y="8.0" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAABAAAAACBAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Entities\StudentProfile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Guardian">
+    <Position X="3.5" Y="8.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Entities\Guardian.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Student" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Enrollment">
+    <Position X="6.0" Y="8.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Enrollment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="ClassSection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.TeacherSubject">
+    <Position X="14.5" Y="5.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\TeacherSubject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Teacher" />
+      <Property Name="Subject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.TeacherDomain">
+    <Position X="14.5" Y="8.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Entities\TeacherDomain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Teacher" />
+      <Property Name="SubjectDomain" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.GradeClass">
+    <Position X="8.0" Y="8.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\GradeClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Section">
+    <Position X="10.0" Y="8.0" Width="1.6" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Section.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.ClassSection">
+    <Position X="8.0" Y="9.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\ClassSection.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GradeClass" />
+      <Property Name="Section" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.SubjectDomain">
+    <Position X="17.0" Y="5.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SubjectDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Subject">
+    <Position X="17.0" Y="8.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Subject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SubjectDomain" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.SchoolScheduleConfig">
+    <Position X="0.5" Y="10.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAAABAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SchoolScheduleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.TimeSlot">
+    <Position X="3.5" Y="10.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\TimeSlot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SchoolScheduleConfig" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.TimetableEntry">
+    <Position X="6.0" Y="10.5" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\TimetableEntry.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClassSection" />
+      <Property Name="TimeSlot" />
+      <Property Name="Subject" />
+      <Property Name="Teacher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.TeacherLeaveRequest">
+    <Position X="12.0" Y="8.0" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\TeacherLeaveRequest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Teacher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.SubstitutionAssignment">
+    <Position X="14.5" Y="10.5" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\SubstitutionAssignment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TimetableEntry" />
+      <Property Name="OriginalTeacher" />
+      <Property Name="SubstituteTeacher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.AttendanceRecord">
+    <Position X="8.5" Y="11.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\AttendanceRecord.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="ClassSection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Exam">
+    <Position X="11.0" Y="11.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Exam.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ExamType" />
+      <Property Name="ClassSection" />
+      <Property Name="Subject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.ExamType">
+    <Position X="13.0" Y="11.5" Width="1.6" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\ExamType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Mark">
+    <Position X="15.0" Y="11.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Mark.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Exam" />
+      <Property Name="Student" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.FeeStructure">
+    <Position X="0.5" Y="13.0" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\FeeStructure.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClassSection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.FeeVoucher">
+    <Position X="3.0" Y="13.0" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\FeeVoucher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="ClassSection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.FeePayment">
+    <Position X="5.5" Y="13.0" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\FeePayment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FeeVoucher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.LibraryBook">
+    <Position X="8.0" Y="13.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\LibraryBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.BookCopy">
+    <Position X="10.5" Y="13.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\BookCopy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="LibraryBook" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.BookIssue">
+    <Position X="12.5" Y="13.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\BookIssue.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BookCopy" />
+      <Property Name="Student" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.LibraryFinePolicy">
+    <Position X="15.0" Y="13.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\LibraryFinePolicy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.AppUser">
+    <Position X="0.5" Y="5.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Entities\AppUser.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Role" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Role">
+    <Position X="0.5" Y="3.0" Width="1.6" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Permission">
+    <Position X="2.5" Y="3.0" Width="1.6" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Permission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.RolePermission">
+    <Position X="4.5" Y="3.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\RolePermission.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Role" />
+      <Property Name="Permission" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.AuditLog">
+    <Position X="0.5" Y="0.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\AuditLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.Notification">
+    <Position X="17.0" Y="13.5" Width="2.0" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Notification.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AppUser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EduNova.Domain.Entities.NotificationPreference">
+    <Position X="19.5" Y="13.5" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\NotificationPreference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AppUser" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="EduNova.Domain.Interfaces.IAuditable">
+    <Position X="12.0" Y="0.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAuditable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EduNova.Domain.Interfaces.IValidatable">
+    <Position X="6.5" Y="5.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Interfaces\IValidatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EduNova.Domain.Interfaces.IRepository&lt;T&gt;">
+    <Position X="14.5" Y="0.5" Width="2.2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAABgQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EduNova.Domain.Interfaces.ISoftDeletable">
+    <Position X="4.0" Y="3.0" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISoftDeletable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EduNova.Domain.Enums.Gender">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Enums\Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EduNova.Domain.Enums.AttendanceStatus">
+    <Position X="6.5" Y="0.5" Width="1.8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\AttendanceStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.csproj.AssemblyReference.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.AssemblyInfoInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.AssemblyInfo.cs
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.csproj.CoreCompileInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net48/EduNova.Data.sourcelink.json

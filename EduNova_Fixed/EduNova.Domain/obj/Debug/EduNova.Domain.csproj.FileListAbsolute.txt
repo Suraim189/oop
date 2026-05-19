@@ -1,0 +1,8 @@
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/bin/Debug/EduNova.Domain.dll
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/bin/Debug/EduNova.Domain.pdb
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.csproj.AssemblyReference.cache
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.csproj.CoreCompileInputs.cache
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.dll
+C:/Users/umair/Downloads/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/EduNova.Domain.pdb

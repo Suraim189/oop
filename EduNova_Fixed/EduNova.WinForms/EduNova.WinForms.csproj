@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EduNova.Domain\EduNova.Domain.csproj" />
+    <ProjectReference Include="..\EduNova.Data\EduNova.Data.csproj" />
+    <ProjectReference Include="..\EduNova.Services\EduNova.Services.csproj" />
+  </ItemGroup>
+
+</Project>

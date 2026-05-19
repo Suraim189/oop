@@ -1,0 +1,12 @@
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/bin/Debug/net6.0/EduNova.Domain.deps.json
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/bin/Debug/net6.0/EduNova.Domain.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/bin/Debug/net6.0/EduNova.Domain.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.AssemblyInfoInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.AssemblyInfo.cs
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.csproj.CoreCompileInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.sourcelink.json
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/refint/EduNova.Domain.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/EduNova.Domain.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Domain/obj/Debug/net6.0/ref/EduNova.Domain.dll

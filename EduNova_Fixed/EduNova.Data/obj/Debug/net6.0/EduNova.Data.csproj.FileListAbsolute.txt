@@ -1,0 +1,16 @@
+/workspaces/oop/EduNova_Fixed/EduNova.Data/bin/Debug/net6.0/EduNova.Data.deps.json
+/workspaces/oop/EduNova_Fixed/EduNova.Data/bin/Debug/net6.0/EduNova.Data.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Data/bin/Debug/net6.0/EduNova.Data.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Data/bin/Debug/net6.0/EduNova.Domain.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Data/bin/Debug/net6.0/EduNova.Domain.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.csproj.AssemblyReference.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.AssemblyInfoInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.AssemblyInfo.cs
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.csproj.CoreCompileInputs.cache
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.sourcelink.json
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova..F94C2214.Up2Date
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/refint/EduNova.Data.dll
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/EduNova.Data.pdb
+/workspaces/oop/EduNova_Fixed/EduNova.Data/obj/Debug/net6.0/ref/EduNova.Data.dll
